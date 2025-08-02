@@ -4,8 +4,6 @@ A Django-based web application that allows users to submit websites, automatical
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![Django](https://img.shields.io/badge/django-5.2-green.svg)](https://www.djangoproject.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Issues](https://img.shields.io/github/issues/yourusername/link-scraper)](https://github.com/yourusername/link-scraper/issues)
-[![Stars](https://img.shields.io/github/stars/yourusername/link-scraper?style=social)](https://github.com/yourusername/link-scraper/stargazers)
 ---
 
 ## 🚀 Features
